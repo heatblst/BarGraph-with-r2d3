@@ -1,0 +1,20 @@
+body{
+  text-align:center;
+  background:#42C6BA;
+}
+
+text{
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.bar{
+  fill: #37329B;
+}
+
+#chart{
+  padding:3%;
+}
+h1{
+  text-decoration:underline;
+}
